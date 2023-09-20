@@ -1,0 +1,14 @@
+#photo {
+    border-radius: 75px;
+    
+}
+
+#intro_table {
+    border-spacing: 50px;
+}
+
+#skilltable {
+    border-spacing: 2px;
+    table-layout: fixed;
+    width: 50%; /* Set the table width to 50% of its container */
+}
