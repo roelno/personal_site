@@ -1,5 +1,16 @@
+body{
+    background-color: #e5f1e3;
+}
+
+hr {
+    border-style: dotted none none;
+    border-color: rgb(167, 167, 167);
+    border-width: 4px;
+    width: 50%;
+}
+
 #photo {
-    border-radius: 75px;
+    border-radius: 50%;
     
 }
 
