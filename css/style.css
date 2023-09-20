@@ -1,5 +1,8 @@
 body{
     background-color: #e5f1e3;
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
 }
 
 hr {
@@ -7,6 +10,10 @@ hr {
     border-color: rgb(167, 167, 167);
     border-width: 4px;
     width: 50%;
+}
+
+h1 {
+    color: #35635b;
 }
 
 #photo {
